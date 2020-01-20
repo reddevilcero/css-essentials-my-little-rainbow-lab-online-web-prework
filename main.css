@@ -9,11 +9,12 @@ div {
   border-right-color: transparent; /* the right side */
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
+
 #Red {
-  background-color: red;
+  border-top-color: red;
 }
 
-#Orange{ background-color: orange;}
-#Yellow{ background-color: yellow;}
-#Green{ background-color: green;}
-#Blue{ background-color: blue;}
+#Orange{ border-top-color: orange;}
+#Yellow{ border-top-color: yellow;}
+#Green{ border-top-color: green;}
+#Blue{ border-top-color: blue;}
